@@ -1,4 +1,6 @@
 
+build/
+
 # Created by https://www.gitignore.io/api/osx,node,linux,windows,sublimetext,webstorm+all,intellij+all
 
 ### Intellij+all ###
